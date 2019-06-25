@@ -1,0 +1,2 @@
+One .py file consisting of final metamodel generating code is kept here.
+It is for the sake uploading in the AV website.

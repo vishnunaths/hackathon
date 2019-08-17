@@ -1,2 +1,2 @@
 # hackathon
-All online competition notebooks 
+All online competition notebooks and kernels
